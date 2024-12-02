@@ -274,8 +274,5 @@ home.html
 
 ![alt text](6.png)
 
-
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
